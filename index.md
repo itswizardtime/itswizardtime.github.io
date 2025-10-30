@@ -4,5 +4,5 @@ Please check back soon!
 
 Development Tests: 
 
-[Posts](posts/first-post)
+[Posts](post/first-post)
 
