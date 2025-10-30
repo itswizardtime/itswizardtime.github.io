@@ -2,7 +2,7 @@
 
 Please check back soon!
 
-Development Tests: 
+## Blog 
 
-[Posts](post/first-post)
+* [First Post](post/1)
 
