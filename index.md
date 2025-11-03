@@ -4,5 +4,5 @@ A little of this, a little of that. A lot of random and probably unimportant tho
 
 ## Blog 
 
-* [First Post](post/1)
+* [First Post](pub/1)
 
