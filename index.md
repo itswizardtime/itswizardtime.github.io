@@ -1,5 +1,9 @@
 # It's Wizard Time!
 
-Better lander page coming soon. 
+From the eccentric scribblings of one WD SOUTH
 
-Various writing and HTML projects hosted here. 
+Writing projects, notes, ideas, and log entries will be found here!
+
+## Select Log Entry
+
+&#10148; [ENTRY 1](./log/entry1)
