@@ -8,3 +8,6 @@ Writing projects, notes, ideas, and log entries will be found here!
 
 &#10148; [ENTRY 1](./log/entry1)
 
+## Projects
+
+&#10148; [NeonCosmos](./neoncosmos/index)
