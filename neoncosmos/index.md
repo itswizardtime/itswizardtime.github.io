@@ -2,6 +2,7 @@
 
 These stories exist in a dynamically expanding universe. There are a lot of areas that are under continued development. These stories grow organically and each story should be, largely, self-contained and only expand on the lore and world-building. 
 
+These documents are %copy; WD SOUTH. These documents are shared under the [CC-BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license and use is subject to its terms where applicable by law.  
 ## Worlds
 
 As a space-based universe, there are going to be many worlds that are explored in-depth throughout the stories. Worlds are places with civilization and structures. Planets are worlds that are -- or appear to be -- largely devoid of civilizations. 
