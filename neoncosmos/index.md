@@ -4,7 +4,7 @@ These stories exist in a dynamically expanding universe. There are a lot of area
 
 ## Worlds
 
-As a space-based universe, there are going to be many worlds that are explored in-depth throughout the stories. Worlds are places with civilization and structures. Planets are worlds that are -- or appear to be -- largely devoid of life. 
+As a space-based universe, there are going to be many worlds that are explored in-depth throughout the stories. Worlds are places with civilization and structures. Planets are worlds that are -- or appear to be -- largely devoid of civilizations. 
 
 * [List of Planets](list_of_planets.md)
 * [List of Worlds](list_of_worlds.md)
