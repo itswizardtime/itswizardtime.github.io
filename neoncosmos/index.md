@@ -8,11 +8,13 @@ As a space-based universe, there are going to be many worlds that are explored i
 
 * [List of Planets](list_of_planets.md)
 * [List of Worlds](list_of_worlds.md)
+
 ## Spacecraft
 
 Spacecraft will also feature prominently as locations that stories will be taking place on.  Many of them can use advanced propulsion systems that their cultures, worlds, and developers have created allowing faster-than-light travel.
 
 * [List of Spacecraft](list_of_spacecraft.md)
+
 ## Cultures
 
 Cultures will be explored as deeply as possible and in addition to characters backgrounds and life experiences will be a driving force in the stories. 
